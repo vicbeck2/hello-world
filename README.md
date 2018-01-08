@@ -2,4 +2,4 @@
 Just another repository
 
 
-<a href="http://adasdasd">asasdasd</a>
+<a href="//adasdasd">asasdasd</a>
