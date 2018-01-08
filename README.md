@@ -1,1 +1,1 @@
-<^SDFSDF>asdasd</>
+<img src="http://exmaple.com"/>
